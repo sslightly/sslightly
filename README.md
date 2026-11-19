@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 I code random stuff.
 Don't expect my repos to be high quality.
-
-
-😄 Pronouns: he/him
-🔭 I’m currently working on projects
-🌱 I’m currently learning pretty much anything
+<------------------------------------------>
+Pronouns: he/him.
+I’m currently working on projects.
+I’m currently learning pretty much anything.
