@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I code random stuff. Don't expect my repos to be the best lol
+I code random stuff.
+Don't expect my repos to be high quality.
 
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hyZXZrZnV3OTN6bWJsc29tODg5bzl2MG8xaWRrZnl4dDF0MzFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pY8jLmZw0ElqvVeRH4/giphy.gif
+[loading](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hyZXZrZnV3OTN6bWJsc29tODg5bzl2MG8xaWRrZnl4dDF0MzFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pY8jLmZw0ElqvVeRH4/giphy.gif)
 
 😄 Pronouns: he/him
 🔭 I’m currently working on projects
